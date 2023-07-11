@@ -134,7 +134,7 @@ print("\nClassificação final:")
 campeonato.exibir_classificacao()
 
 # Salvando a classificação no arquivo CSV
-campeonato.salvar_classificacao('classificacao.csv')
+campeonato.salvar_classificacao('classificacaoCL.csv')
 
 
 
